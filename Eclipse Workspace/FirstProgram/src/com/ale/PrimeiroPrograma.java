@@ -26,5 +26,10 @@ public class PrimeiroPrograma {
  * CTRL + Shift + F = faz ordenação de código
  * CTRL + Shift + O = importa classes necessárias
  * sysout + CTRL + space = completa o System.out.println
- * 
+ * Seleciona o código, CTRL + Alt + Seta para baixo, copia o código
+ * Seleciona o operaçao e digita CTRL + 2 + L ele já cria uma variável para 
+ * armazenar
+ * CTRL + Shift + T = abre qualquer programa que digitar
+ * CTRL + W = Fecha a aba
+ * CTRL + Shift + W = Fecha todas as abas
  * */
